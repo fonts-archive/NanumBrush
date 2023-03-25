@@ -15,7 +15,7 @@ font-family: 'Nanum Brush';
 link
 
 ```
-<link rel='stylesheet' href='https://cdn.statically.io/gh/fonts-archive/NanumBrush/main/NanumBrush.css'/>
+<link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/fonts-archive/NanumBrush/NanumBrush.css'/>
 ```
 
 &nbsp;
@@ -23,7 +23,7 @@ link
 import
 
 ```
-@import url('https://cdn.statically.io/gh/fonts-archive/NanumBrush/main/NanumBrush.css');
+@import url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBrush/NanumBrush.css');
 ```
 
 &nbsp;
@@ -31,5 +31,5 @@ import
 URL
 
 ```
-https://cdn.statically.io/gh/fonts-archive/NanumBrush/main/NanumBrush.css
+https://cdn.jsdelivr.net/gh/fonts-archive/NanumBrush/NanumBrush.css
 ```
