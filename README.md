@@ -15,7 +15,7 @@ font-family: 'Nanum Brush';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/NanumBrush/NanumBrush.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/NanumBrush/NanumBrush.css" type="text/css"/>
 ```
 
 &nbsp;
