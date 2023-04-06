@@ -36,9 +36,9 @@ font-face
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBrush/NanumBrush.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBrush/NanumBrush.ttf') format('truetype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBrush/NanumBrush.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBrush/NanumBrush.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBrush/NanumBrush.woff2') format('woff2');
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBrush/NanumBrush.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBrush/NanumBrush.ttf') format('truetype');
 }
 ```
